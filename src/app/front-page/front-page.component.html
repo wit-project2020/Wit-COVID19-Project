@@ -1,0 +1,83 @@
+
+<!doctype html>
+<html lang="en">
+   <head>
+      <!-- Required meta tags -->
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+      <link rel="icon" href="img/favicon.png" type="image/png">
+      <title>Kindness4Neighbours</title>
+   </head>
+   <body>
+      <!--================ Start Header Menu Area =================-->
+      <nav class="navbar navbar-expand-lg navbar-dark bg-dark static-top">
+        <div class="container">
+          <a class="navbar-brand" href="#">
+                <img src="" alt="">
+              </a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+          <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav ml-auto">
+              <li class="nav-item active">
+                <a class="nav-link" href="#">Home
+                      <span class="sr-only">(current)</span>
+                    </a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">About</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Services</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Contact</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+      <div class="container">
+<div class="text-center"><img src="assets/img/Logo4.png"></div>
+<div class="row">
+ <div class=col-sm-4></div>   
+<div class="col-sm-4 " ><button class="button3">Request a Delivery</button></div>
+<div class="col-sm-4"><button class="button3">Volunteer to help</button></div>
+</div>
+</div>
+<div style="padding-top:130px"></div>
+<div class="container">
+    
+  <!-- <form #userForm="ngForm"> -->
+      <div class="style:padding-down=70px"></div>
+    <form>
+      <div style="padding-top:3000px"></div> 
+      <div class="style:padding-down=70px"></div>
+ 
+    <div style="padding-top:3000px"></div> 
+<div class="row">
+<div class="col-sm-6"><label>First Name:</label> <input type="text" class="form-control"></div>
+<div class="col-sm-6"><label>Last Name:</label><input type="text" class="form-control"></div>
+<div class="col-sm-6"><label>Contact Number:</label><input type="text" class="form-control"></div>
+<div class="col-sm-6"><label>Enter your location:</label><input type="text" class="form-control"></div>
+<div class="col-sm-6"><label>Select the kind of help you can offer:</label>
+<select class="custom-select">
+    <option *ngfor="let category of categories">{{category}}</option>
+</select></div>
+<br>
+<div class="col-sm-6">  </div>
+<div class="col-sm-6">  </div>
+<div class="col-sm-6">  </div>
+<div style="padding-top:30px"></div>
+<div class="col-sm-6"><button class="btn-btn-primary" type="submit">Submit form</button></div>
+</div>   
+
+
+
+  
+  </form>
+  </div>
+  
+       </body>
+      </html>
