@@ -8,7 +8,9 @@ In this scenario of covid19 panademic there are a lots of people out there,who a
  <br/>3)Browse the resutls for posts from nearby neighbours who can help you or require your help.
  <br/>4)If you find a suitable result simply reply on the post to get in touch with the authour thriugh the e-mail.
  <br/>5)If there is no suitable result you can create a post to request or offer help for your community to see.
-
+# Solution Roadmap
+  
+  ![](imgs/image1.png)
 
 
 # MyCovid19Project
