@@ -1,4 +1,4 @@
-#Long description
+# Long description
 In this scenario of covid19 panademic there are a lots of people out there,who are either elderly or immuno compromised and they are not willing to risk their health and go outside for necessities like food and other supplies.The goal of this project is to help such people stay safe at home and reduce their risk to infection while ensuring they can still get access to baisc neccesities like food and medicines.
    The application we have build helps connect those who want to volunteer to those who need help.These volunteers can help purchase groceries,medicines or other supply for someone in need.
    A user can register as a deliverer or a reciever and see a list of coressponding people who they can help or be helped by.It will connect users to other within their community.
