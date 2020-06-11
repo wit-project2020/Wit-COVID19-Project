@@ -5,8 +5,8 @@ In this scenario of covid19 panademic there are a lots of people out there,who a
    </br>Our application works on the following workflow:-
  <br/>1)Select whether you need help or is willing to offer it.
  <br/>2)Search for your location.
- <br/>3)Browse the resutls for posts from nearby neighbours who can help you or require your help.
- <br/>4)If you find a suitable result simply reply on the post to get in touch with the authour thriugh the e-mail.
+ <br/>3)Browse the results for posts from nearby neighbours who can help you or require your help.
+ <br/>4)If you find a suitable result simply reply on the post to get in touch with the author through the e-mail.
  <br/>5)If there is no suitable result you can create a post to request or offer help for your community to see.
 # Solution Roadmap
   
